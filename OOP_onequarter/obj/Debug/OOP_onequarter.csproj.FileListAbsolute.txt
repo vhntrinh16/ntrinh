@@ -1,0 +1,7 @@
+D:\VIDOK11-master\OOP_onequarter\OOP_onequarter\obj\Debug\OOP_onequarter.csprojResolveAssemblyReference.cache
+D:\VIDOK11-master\OOP_onequarter\OOP_onequarter\obj\Debug\OOP_onequarter.MainForm.resources
+D:\VIDOK11-master\OOP_onequarter\OOP_onequarter\obj\Debug\OOP_onequarter.csproj.GenerateResource.Cache
+D:\VIDOK11-master\OOP_onequarter\OOP_onequarter\bin\Debug\OOP_onequarter.exe
+D:\VIDOK11-master\OOP_onequarter\OOP_onequarter\bin\Debug\OOP_onequarter.pdb
+D:\VIDOK11-master\OOP_onequarter\OOP_onequarter\obj\Debug\OOP_onequarter.exe
+D:\VIDOK11-master\OOP_onequarter\OOP_onequarter\obj\Debug\OOP_onequarter.pdb
