@@ -1,0 +1,5 @@
+C:\Users\dell\Documents\SharpDevelop Projects\bai608\bai608\bin\Debug\bai608.exe
+C:\Users\dell\Documents\SharpDevelop Projects\bai608\bai608\bin\Debug\bai608.pdb
+C:\Users\dell\Documents\SharpDevelop Projects\bai608\bai608\obj\Debug\bai608.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\SharpDevelop Projects\bai608\bai608\obj\Debug\bai608.exe
+C:\Users\dell\Documents\SharpDevelop Projects\bai608\bai608\obj\Debug\bai608.pdb
