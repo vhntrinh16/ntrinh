@@ -1,0 +1,5 @@
+C:\Users\dell\Documents\SharpDevelop Projects\OOP02\OOP02\bin\Debug\OOP02.exe
+C:\Users\dell\Documents\SharpDevelop Projects\OOP02\OOP02\bin\Debug\OOP02.pdb
+C:\Users\dell\Documents\SharpDevelop Projects\OOP02\OOP02\obj\Debug\OOP02.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\SharpDevelop Projects\OOP02\OOP02\obj\Debug\OOP02.exe
+C:\Users\dell\Documents\SharpDevelop Projects\OOP02\OOP02\obj\Debug\OOP02.pdb
