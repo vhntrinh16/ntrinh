@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\SharpDevelop Projects\BTOOP\BTOOP\bin\Debug\BTOOP.exe
+C:\Users\dell\Documents\SharpDevelop Projects\BTOOP\BTOOP\bin\Debug\BTOOP.pdb
+C:\Users\dell\Documents\SharpDevelop Projects\BTOOP\BTOOP\obj\Debug\BTOOP.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\SharpDevelop Projects\BTOOP\BTOOP\obj\Debug\BTOOP.MainForm.resources
+C:\Users\dell\Documents\SharpDevelop Projects\BTOOP\BTOOP\obj\Debug\BTOOP.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\SharpDevelop Projects\BTOOP\BTOOP\obj\Debug\BTOOP.exe
+C:\Users\dell\Documents\SharpDevelop Projects\BTOOP\BTOOP\obj\Debug\BTOOP.pdb
