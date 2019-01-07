@@ -1,0 +1,5 @@
+C:\Users\dell\Documents\SharpDevelop Projects\nhap_thang\nhap_thang\obj\Debug\nhap_thang.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\SharpDevelop Projects\nhap_thang\nhap_thang\bin\Debug\nhap_thang.exe
+C:\Users\dell\Documents\SharpDevelop Projects\nhap_thang\nhap_thang\bin\Debug\nhap_thang.pdb
+C:\Users\dell\Documents\SharpDevelop Projects\nhap_thang\nhap_thang\obj\Debug\nhap_thang.exe
+C:\Users\dell\Documents\SharpDevelop Projects\nhap_thang\nhap_thang\obj\Debug\nhap_thang.pdb
